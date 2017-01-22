@@ -38,7 +38,7 @@
   opacity: .5;
   background-image: url('cookies.ico');
   background-size: cover;
-  transition: all ease .3s;
+  transition: all linear .5s;
 }
 
 .enemy {
@@ -48,7 +48,7 @@
 
   background-image: url('bat.png');
   background-size: cover;
-  transition: all ease .1s;
+  transition: all linear .5s;
 }
 
 .opacity-half {

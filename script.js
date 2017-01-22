@@ -1,5 +1,5 @@
 window.onload = function() {
-  window.setInterval(projectiles, 1000);
+  window.setInterval(projectiles, 500);
   window.setInterval(randomEnemies, 3000);
   setMusic();
 }
